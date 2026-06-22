@@ -1,0 +1,8 @@
+﻿variavel_comparada_com_casos,correlacao_pearson_r,direcao,intensidade,observacoes
+Casos confirmados de dengue,0.9976,positiva,muito forte,n=5 anos; resultado descritivo
+Hospitalizacoes,0.8720,positiva,forte,n=5 anos; resultado descritivo
+Obitos pelo agravo,0.6142,positiva,moderada,n=5 anos; resultado descritivo
+Idade media,0.5388,positiva,moderada,n=5 anos; resultado descritivo
+Hospitalizacao (%),0.0457,positiva,muito fraca,n=5 anos; resultado descritivo
+Letalidade entre notificacoes (%),0.1556,positiva,muito fraca,n=5 anos; resultado descritivo
+Confirmados (%),0.8013,positiva,forte,n=5 anos; resultado descritivo

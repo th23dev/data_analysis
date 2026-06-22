@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="278" viewBox="0 0 940 278">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700" fill="#1f2937">Casos notificados de dengue no Para por ano</text>
+<text x="24" y="78" font-family="Arial" font-size="14" fill="#374151">2022</text>
+<rect x="190" y="58" width="203.5" height="28" rx="4" fill="#0f766e"/>
+<text x="401.5" y="78" font-family="Arial" font-size="13" fill="#111827">6.126</text>
+<text x="24" y="116" font-family="Arial" font-size="14" fill="#374151">2023</text>
+<rect x="190" y="96" width="195.3" height="28" rx="4" fill="#0f766e"/>
+<text x="393.3" y="116" font-family="Arial" font-size="13" fill="#111827">5.878</text>
+<text x="24" y="154" font-family="Arial" font-size="14" fill="#374151">2024</text>
+<rect x="190" y="134" width="700" height="28" rx="4" fill="#0f766e"/>
+<text x="898" y="154" font-family="Arial" font-size="13" fill="#111827">21.069</text>
+<text x="24" y="192" font-family="Arial" font-size="14" fill="#374151">2025</text>
+<rect x="190" y="172" width="562.9" height="28" rx="4" fill="#0f766e"/>
+<text x="760.9" y="192" font-family="Arial" font-size="13" fill="#111827">16.943</text>
+<text x="24" y="230" font-family="Arial" font-size="14" fill="#374151">2026</text>
+<rect x="190" y="210" width="250.4" height="28" rx="4" fill="#0f766e"/>
+<text x="448.4" y="230" font-family="Arial" font-size="13" fill="#111827">7.536</text>
+</svg>

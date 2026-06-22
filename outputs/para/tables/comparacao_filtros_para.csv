@@ -1,0 +1,6 @@
+﻿ano,residentes_pa_total_notificacao,residentes_pa_sem_descartados,residentes_pa_confirmados_dengue,residentes_pa_descartados,residentes_pa_inconclusivos,notificados_no_pa_total,residentes_pa_por_ano_primeiros_sintomas,diferenca_notificacao_menos_residencia,diferenca_sem_descartados_menos_total,diferenca_confirmados_menos_total,diferenca_ano_sintomas_menos_ano_notificacao
+2022,6126,6126,4780,0,1332,5912,6125,-214,0,-1346,-1
+2023,5878,5878,4559,0,1303,5688,5899,-190,0,-1319,21
+2024,21069,21069,18252,0,2777,20489,21117,-580,0,-2817,48
+2025,16943,16943,15091,0,1817,16739,16971,-204,0,-1852,28
+2026,7536,7536,5195,0,790,7406,7439,-130,0,-2341,-97

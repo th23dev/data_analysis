@@ -1,0 +1,3 @@
+data/
+tools/datasus_compare/*.csv.zip
+tools/datasus_compare/extracted/

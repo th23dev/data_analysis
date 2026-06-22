@@ -1,0 +1,6 @@
+﻿ano,casos_notificados,variacao_vs_ano_anterior_percentual,percentual_total_periodo,idade_media,idade_mediana,idade_desvio_padrao,hospitalizacoes,hospitalizacao_percentual,obitos_pelo_agravo,letalidade_notificados_percentual,casos_confirmados_dengue,confirmados_percentual
+2022,6126,,10.64,28.56,26.00,18.15,397,6.48,5,0.0816,4780,78.03
+2023,5878,-4.05,10.21,28.97,26.00,17.86,306,5.21,1,0.0170,4559,77.56
+2024,21069,258.44,36.61,30.90,28.00,19.30,1268,6.02,12,0.0570,18252,86.63
+2025,16943,-19.58,29.44,29.18,26.00,18.26,1640,9.68,31,0.1830,15091,89.07
+2026,7536,-55.52,13.09,30.54,27.00,18.83,811,10.76,13,0.1725,5195,68.94

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="316" viewBox="0 0 920 316">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700" fill="#1f2937">Casos por faixa etaria em 2026</text>
+<text x="24" y="78" font-family="Arial" font-size="14" fill="#374151">&lt;1</text>
+<rect x="190" y="58" width="24.6" height="28" rx="4" fill="#2563eb"/>
+<text x="222.6" y="78" font-family="Arial" font-size="13" fill="#111827">5.230</text>
+<text x="24" y="116" font-family="Arial" font-size="14" fill="#374151">1-9</text>
+<rect x="190" y="96" width="191.9" height="28" rx="4" fill="#2563eb"/>
+<text x="389.9" y="116" font-family="Arial" font-size="13" fill="#111827">40.778</text>
+<text x="24" y="154" font-family="Arial" font-size="14" fill="#374151">10-19</text>
+<rect x="190" y="134" width="325.1" height="28" rx="4" fill="#2563eb"/>
+<text x="523.1" y="154" font-family="Arial" font-size="13" fill="#111827">69.077</text>
+<text x="24" y="192" font-family="Arial" font-size="14" fill="#374151">20-39</text>
+<rect x="190" y="172" width="690" height="28" rx="4" fill="#2563eb"/>
+<text x="888" y="192" font-family="Arial" font-size="13" fill="#111827">146.606</text>
+<text x="24" y="230" font-family="Arial" font-size="14" fill="#374151">40-59</text>
+<rect x="190" y="210" width="414.5" height="28" rx="4" fill="#2563eb"/>
+<text x="612.5" y="230" font-family="Arial" font-size="13" fill="#111827">88.079</text>
+<text x="24" y="268" font-family="Arial" font-size="14" fill="#374151">60+</text>
+<rect x="190" y="248" width="184" height="28" rx="4" fill="#2563eb"/>
+<text x="382" y="268" font-family="Arial" font-size="13" fill="#111827">39.103</text>
+</svg>
